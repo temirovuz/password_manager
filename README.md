@@ -3,9 +3,9 @@
 ## Rest 
 ---
 ## Git clone project<br>
-    git clone https://github.com/temirovuz/FastAPI_Student.git
+    git clone https://github.com/temirovuz/password_manager.git
 ## We can enter the cloned project
-        cd FastAPI_Student
+        cd password_manager
 ## Creating the Virtual Environment
         python -m venv venv
 ## Activating the Virtual Environment
